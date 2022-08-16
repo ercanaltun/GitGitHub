@@ -10,6 +10,8 @@ public class A02_GitBranch {
          4) git branch -m [isim] =======> Aktif olan Branc'in ismini degistirir
          5) git branch -d [isim] =======> Aktif olmayan Branch'in adini siler (o anda aktif olmamali Branch)
          6) git merge [isim]  ==========> Sizin Branch'iniz ile master'in version larini birlestirir
+         
+         -Is everything all right there?
 
 
 
