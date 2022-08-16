@@ -20,7 +20,7 @@ public class A01_GitPushAndPull {
                 git push -u origin master
            Not: Yukaridaki 2 komutu tek seferde kullandıktan sonra diger 2. commit'lerim icin sadece
                 git push kullaniriz
-
+           Not :Yeter artık!Bitsin artık bu çile :)
 
          */
 
