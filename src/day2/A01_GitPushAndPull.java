@@ -22,7 +22,7 @@ public class A01_GitPushAndPull {
                 git push kullaniriz
            Not :Yeter artık!Bitsin artık bu çile :)
 
-           jjbbuybknlkmjbuyvtytc
+           
 
 
 
