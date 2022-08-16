@@ -12,6 +12,7 @@ public class A02_GitBranch {
          6) git merge [isim]  ==========> Sizin Branch'iniz ile master'in version larini birlestirir
          
          -Is everything all right there?
+         -I believe u man !!!
 
 
 
