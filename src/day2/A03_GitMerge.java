@@ -9,6 +9,9 @@ public class A03_GitMerge {
 
         3.adım: git merge [Head branch name]
 
+        Not:Eger commit 'edilmemis bir degisiklik varsa merge yazmaz.
+            once stashing yapmamiz gerekir
+
         */
 
     }
