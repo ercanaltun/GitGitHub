@@ -11,6 +11,7 @@ public class A03_GitMerge {
 
         Not:Eger commit 'edilmemis bir degisiklik varsa merge yazmaz.
             once stashing yapmamiz gerekir
+            Aferin!!
 
         */
 
